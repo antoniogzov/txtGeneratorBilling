@@ -139,8 +139,18 @@ function downloadTXT()
     $content = str_replace("$", "", $content);
     $content = str_replace('"', "", $content);
     $consecutive = $_POST['consecutive'];
+
+    
+    $groups = new Groups;
+
     //str_replace("\r\n","<br/>");
     $archivo = fopen('../../data/' . $consecutive . '_' . $family_code . '_' . time() . '.txt', 'a');
+    $r_archivo = 'data/' . $consecutive . '_' . $family_code . '_' . time(). '.txt';
+    
+    $getExist = "UPDATE families_billing_data.payments_received 
+        SET route_archive = '$r_archivo'
+    WHERE consecutive = '$consecutive' AND txt_generated = 1";
+    $groups->insertData($getExist);
     fputs($archivo, $content);
     fclose($archivo);
     //--- --- ---//
