@@ -1,0 +1,659 @@
+
+<strong>FAMILIA: AG10</strong>
+<p class="font-monospace"><strong>YAMPOLSKY MIRMANAS</strong>
+1
+57267
+XEX010101000
+aleyamp@hotmail.com
+YAMPOLSKY CARMONA ALEJANDRO 
+ALEJANDRO DUMAS 
+328
+201
+Polanco III Secc
+11550
+MÉX
+Miguel Hidalgo
+CDMX
+261
+"$8760.00"
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+"$8760.00"
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TDC
+No identificado
+
+YAMPOLSKY MIRMANAS YAEL,YAMPOLSKY MIRMANAS MOSHE,YAMPOLSKY MIRMANAS ELIAHU
+YAMY121119MDFMRLA7,YAMM100402HDFMRSA6,YAME061213HNEMRLA3
+AG10
+PRIMARIA 6,SECUNDARIA 2,PREPARATORIA 2
+23/01/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
+<strong>FAMILIA: AG10</strong>
+<p class="font-monospace"><strong>YAMPOLSKY MIRMANAS</strong>
+1
+57267
+XEX010101000
+aleyamp@hotmail.com
+YAMPOLSKY CARMONA ALEJANDRO 
+ALEJANDRO DUMAS 
+328
+201
+Polanco III Secc
+11550
+MÉX
+Miguel Hidalgo
+CDMX
+261
+"$17140.00"
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+"$17140.00"
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TDC
+No identificado
+
+YAMPOLSKY MIRMANAS YAEL,YAMPOLSKY MIRMANAS MOSHE,YAMPOLSKY MIRMANAS ELIAHU
+YAMY121119MDFMRLA7,YAMM100402HDFMRSA6,YAME061213HNEMRLA3
+AG10
+PRIMARIA 6,SECUNDARIA 2,PREPARATORIA 2
+23/01/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
+<strong>FAMILIA: AG10</strong>
+<p class="font-monospace"><strong>YAMPOLSKY MIRMANAS</strong>
+1
+57267
+XEX010101000
+aleyamp@hotmail.com
+YAMPOLSKY CARMONA ALEJANDRO 
+ALEJANDRO DUMAS 
+328
+201
+Polanco III Secc
+11550
+MÉX
+Miguel Hidalgo
+CDMX
+261
+"$1310.00"
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+"$1310.00"
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TDC
+No identificado
+
+YAMPOLSKY MIRMANAS YAEL,YAMPOLSKY MIRMANAS MOSHE,YAMPOLSKY MIRMANAS ELIAHU
+YAMY121119MDFMRLA7,YAMM100402HDFMRSA6,YAME061213HNEMRLA3
+AG10
+PRIMARIA 6,SECUNDARIA 2,PREPARATORIA 2
+01/02/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
+<strong>FAMILIA: AG10</strong>
+<p class="font-monospace"><strong>YAMPOLSKY MIRMANAS</strong>
+1
+57267
+XEX010101000
+aleyamp@hotmail.com
+YAMPOLSKY CARMONA ALEJANDRO 
+ALEJANDRO DUMAS 
+328
+201
+Polanco III Secc
+11550
+MÉX
+Miguel Hidalgo
+CDMX
+261
+"$7670.00"
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+"$7670.00"
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TDC
+No identificado
+
+YAMPOLSKY MIRMANAS YAEL,YAMPOLSKY MIRMANAS MOSHE,YAMPOLSKY MIRMANAS ELIAHU
+YAMY121119MDFMRLA7,YAMM100402HDFMRSA6,YAME061213HNEMRLA3
+AG10
+PRIMARIA 6,SECUNDARIA 2,PREPARATORIA 2
+01/02/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
+<strong>FAMILIA: AG10</strong>
+<p class="font-monospace"><strong>YAMPOLSKY MIRMANAS</strong>
+1
+57267
+XEX010101000
+aleyamp@hotmail.com
+YAMPOLSKY CARMONA ALEJANDRO 
+ALEJANDRO DUMAS 
+328
+201
+Polanco III Secc
+11550
+MÉX
+Miguel Hidalgo
+CDMX
+261
+"$6000.00"
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+"$6000.00"
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TDC
+No identificado
+
+YAMPOLSKY MIRMANAS YAEL,YAMPOLSKY MIRMANAS MOSHE,YAMPOLSKY MIRMANAS ELIAHU
+YAMY121119MDFMRLA7,YAMM100402HDFMRSA6,YAME061213HNEMRLA3
+AG10
+PRIMARIA 6,SECUNDARIA 2,PREPARATORIA 2
+01/02/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
+<strong>FAMILIA: AF30</strong>
+<p class="font-monospace"><strong>SHAMY HIBE</strong>
+1
+57267
+XEX010101000
+shamysalomon@gmail.com
+SHAMY KASSIN SALOMON 
+Luis Vives
+220
+801
+Polanco I Secc
+11510
+MÉX
+Miguel Hidalgo
+CDMX
+261
+"$8640.50"
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+"$8640.50"
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TRANSFERENCIA BANCARIA
+No identificado
+
+SHAMY HIBE JUDY,SHAMY HIBE DAVID,SHAMY HIBE RUTH,SHAMY HIBE JAIM VICTOR,SHAMY HIBE RAJEL,SHAMY HIBE MIRIAM,SHAMY HIBE YAEL
+SAHJ160801MDFHBDA7,SAHD140320HMCHBVA5,SAHR110711MMCHBTA2,SAHJ060320HMCHBMA3,SAHR060320MMCHBJA7,SAHM060320MMCHBRA0,SAHY060320MMCHBLA6
+AF30
+PRIMARIA 2,PRIMARIA 4,SECUNDARIA 1,PREPARATORIA 2,PREPARATORIA 3,PREPARATORIA 3,PREPARATORIA 3
+03/03/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
+<strong>FAMILIA: AE01</strong>
+<p class="font-monospace"><strong>MICHAN ASKENAZI</strong>
+1
+57267
+XEX010101000
+elimch@hotmail.com
+MICHAN CHACALO ELIAS 
+Blas pascal
+184
+601
+Polanco I Secc
+11510
+MÉX
+Miguel Hidalgo
+CDMX
+261
+"$5000.00"
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+"$5000.00"
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TRANSFERENCIA BANCARIA
+No identificado
+
+MICHAN ASKENAZI YAACOB ISRAEL
+MIAY071117HDFCSCA7
+AE01
+PREPARATORIA 1
+26/04/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
+<strong>FAMILIA: AF45</strong>
+<p class="font-monospace"><strong>SITT TUACHI</strong>
+1
+57267
+SISE841231CSA
+eli@sitt.mx
+SITT SHAMOSH ELI 
+SENECA
+330
+401
+Polanco II Secc
+11550
+MÉX
+Miguel Hidalgo
+CDMX
+261
+"$65600.00"
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+"$65600.00"
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TRANSFERENCIA BANCARIA
+No identificado
+
+SITT TUACHI MOSHE,SITT TUACHI SUSSY,SITT TUACHI SHARON,SITT TUACHI BELLA
+SITM110530HDFTCSA8,SITS110530MDFTCSA3,SITS110530MDFTCHA9,SITB080627MMCTCLA1
+AF45
+PRIMARIA 6,PRIMARIA 6,PRIMARIA 6,PREPARATORIA 1
+26/04/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
+<strong>FAMILIA: AE81</strong>
+<p class="font-monospace"><strong>ROMANO HILU</strong>
+1
+57267
+XAXX010101000
+romano.gabriel@gmail.com
+ROMANO DANIEL GABRIEL 
+GOLDSMITH
+134
+PH
+Polanco III Secc
+11550
+MÉX
+Miguel Hidalgo
+CDMX
+261
+"$2000.00"
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+"$2000.00"
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TRANSFERENCIA BANCARIA
+No identificado
+
+ROMANO HILU IVONNE,ROMANO HILU DAN,ROMANO HILU SION
+ROHI140822MMCMLVA5,ROHD101016HMCMLNA9,ROHS081213HMCMLNA4
+AE81
+PRIMARIA 4,SECUNDARIA 1,SECUNDARIA 3
+26/04/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
+<strong>FAMILIA: AE81</strong>
+<p class="font-monospace"><strong>ROMANO HILU</strong>
+1
+57267
+XAXX010101000
+romano.gabriel@gmail.com
+ROMANO DANIEL GABRIEL 
+GOLDSMITH
+134
+PH
+Polanco III Secc
+11550
+MÉX
+Miguel Hidalgo
+CDMX
+261
+"$23000.00"
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+"$23000.00"
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TRANSFERENCIA BANCARIA
+No identificado
+
+ROMANO HILU IVONNE,ROMANO HILU DAN,ROMANO HILU SION
+ROHI140822MMCMLVA5,ROHD101016HMCMLNA9,ROHS081213HMCMLNA4
+AE81
+PRIMARIA 4,SECUNDARIA 1,SECUNDARIA 3
+26/04/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
+<strong>FAMILIA: AA34</strong>
+<p class="font-monospace"><strong>ARAKINDJI CHACALO</strong>
+1
+57267
+XEX010101000
+arajimmy@hotmail.com
+ARAKINDJI BAGDADI EMILIO 
+Ciceron
+704
+2
+Polanco II Secc
+11550
+MÉX
+Miguel Hidalgo
+CDMX
+261
+"$29650.00"
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+"$29650.00"
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TRANSFERENCIA BANCARIA
+No identificado
+
+ARAKINDJI CHACALO SHARON,ARAKINDJI CHACALO IVETTE
+AACS111106MDFRHHA3,AACI070917MMCRHVA9
+AA34
+PRIMARIA 6,PREPARATORIA 2
+26/04/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
+<strong>FAMILIA: AD89</strong>
+<p class="font-monospace"><strong>MAYA AMIGA</strong>
+1
+57267
+XEX010101000
+isaacmayabistre@gmail.com
+MAYA BISTRE ISAAC 
+Fte. de pescador
+11
+PB
+Lomas de Tecamachalco
+52780
+MÉX
+Naucalpan de Juarez52780
+CDMX
+261
+$526.00
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+$526.00
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TRANSFERENCIA BANCARIA
+No identificado
+
+MAYA AMIGA LILY
+MAAL140225MDFYMLA3
+AD89
+PRIMARIA 4
+03/05/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
+<strong>FAMILIA: AI45</strong>
+<p class="font-monospace"><strong>MEMUN PENHOS</strong>
+1
+57267
+MEHJ840628IM0
+hano18@hotmail.com
+MEMUN HANONO JOSE
+COFRE DE PEROTE
+245
+C401
+LOMAS DE CHAPULTEPEC
+11000
+MÉX
+MIGUEL HIDALGO
+CDMX
+261
+$880.00
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+$880.00
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TRANSFERENCIA BANCARIA
+No identificado
+
+MEMUN PENHOS GABRIEL,MEMUN PENHOS AARON,MEMUN PENHOS RAQUEL,MEMUN PENHOS ZION
+MEPG170810HMCMNBA0,MEPR130103MMCMNQA4,MEPA150326HMCMURA6,MEPZ130103HMCMNNA6
+AI45
+PRIMARIA 1,PRIMARIA 3,PRIMARIA 5,PRIMARIA 5
+03/05/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
+<strong>FAMILIA: AD33</strong>
+<p class="font-monospace"><strong>KASSIN TUACHI</strong>
+1
+57267
+XAXX010101000
+jonathankassin@gmail.com
+KASSIN BETECH JONATHAN 
+Homero
+1511
+7
+Polanco II Secc
+11560
+MÉX
+Miguel Hidalgo
+CDMX
+261
+"$2340.00"
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+"$2340.00"
+MXN
+1.00
+Dpto. Desarrollo
+Pago en una sola exhibición
+03
+TRANSFERENCIA BANCARIA
+No identificado
+
+KASSIN TUACHI ABRAHAM,KASSIN TUACHI GINA
+KATA170301HDFSCBA0,KATG140620MDFSCNA9
+AD33
+PRIMARIA 1,PRIMARIA 4
+04/04/2023
+
+
+
+D10
+0
+1
+
+
+606
+CTODET|cantidad|descripcion|valor_unitario|tasa_descuento|tasa_ieps|tasa_iva|importe_descuento|importe_iva|clave_unidad_medida_sat|clave_producto_servicio_sat|nombre_alumno,curp_alumno,nivel_educativo,AUTRVOE
+</p>
